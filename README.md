@@ -4,10 +4,10 @@
 
 This Project is an mini project for learn how works spring security module and learn/remember about security in web applications.
 
-# Extension Documentation
+# Extension Documentation ![Git commit emoji](https://img.shields.io/badge/VS_Code-Extension-blue?style=flat-square&logo=visualstudiocode)
 
-Spring boot extensions [![Spring boot extensions](https://img.shields.io/badge/VS_Code-Extension-blue?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+- [Spring boot extensions](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
 
-Code spell checker [![Code spell checker](https://img.shields.io/badge/VS_Code-Extension-blue?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries)
+- [Code spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries)
 
-Git commit emoji [![Git commit emoji](https://img.shields.io/badge/VS_Code-Extension-blue?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
+- [Git commit emoji](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode)
